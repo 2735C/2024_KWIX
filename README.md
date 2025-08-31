@@ -1,4 +1,4 @@
-## ⚡Dual-band Reconfigurable RF Transmitter for 5G/6G communications
+# ⚡Dual-band Reconfigurable RF Transmitter for 5G/6G communications
 
 ## 🙋‍♂️팀원 & Role
 
