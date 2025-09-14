@@ -1,6 +1,6 @@
-# ⚡Dual-band Reconfigurable RF Transmitter for 5G/6G communications
+## ⚡Dual-band Reconfigurable RF Transmitter for 5G/6G communications
 
-### 팀원 & Role
+> ### 팀원 & Role
 
 #### 정은지
 
@@ -14,9 +14,8 @@
 
 - Power Amplifier Network Design 
 
-### 목표 스펙
+> ### 목표 스펙
 
-##
 
 | 목표 스펙      | 주파수 대역       | 조건 |
 |----------------|-----------------|------|
@@ -24,9 +23,8 @@
 | 7.125 - 8.4 GHz| 반사계수 -10dB 이하<br>3단 결과 Drain efficiency 50% 이상 → PA 단독만 성립, 7.7GHz에서 35.7%<br>3단 결과 Pout 33dbm 이상 |
 
 
-### 개발 환경
+> ### 개발 환경
 
-##
 
 선정 소자| 모델 명|
 --|--
